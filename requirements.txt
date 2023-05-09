@@ -13,7 +13,7 @@ bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 brotlipy==0.7.0
 cachetools==5.3.0
-certifi==2020.6.20
+certifi==2023.5.7
 cffi @ file:///C:/ci_311/cffi_1676423759166/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 colorama @ file:///C:/ci_311/colorama_1676422310965/work
@@ -31,7 +31,12 @@ filelock @ file:///C:/ci_311/filelock_1676427284139/work
 flatbuffers==23.3.3
 fonttools==4.25.0
 fsspec==2023.5.0
+fst-pso @ file:///home/conda/feedstock_root/build_artifacts/fst-pso_1674508369029/work
+funcy @ file:///home/conda/feedstock_root/build_artifacts/funcy_1680003215408/work
+future @ file:///home/conda/feedstock_root/build_artifacts/future_1673596611778/work
+FuzzyTM @ file:///home/conda/feedstock_root/build_artifacts/fuzzytm_1674510610147/work
 gast==0.4.0
+gensim @ file:///C:/ci_311/gensim_1677743037820/work
 google-auth==2.17.3
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
@@ -46,7 +51,7 @@ ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
 jax==0.4.8
 jedi @ file:///C:/ci_311/jedi_1679427407646/work
 Jinja2 @ file:///C:/ci_311/jinja2_1676424968965/work
-joblib @ file:///C:/ci_311/joblib_1676433470200/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1663332044897/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonschema @ file:///C:/b/abs_d40z05b6r1/croot/jsonschema_1678983446576/work
 jupyter @ file:///C:/ci_311/jupyter_1678249952587/work
@@ -66,6 +71,7 @@ Markdown==3.4.3
 MarkupSafe @ file:///C:/ci_311/markupsafe_1676424152318/work
 matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
 matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
+miniful @ file:///home/conda/feedstock_root/build_artifacts/miniful_1674206371364/work
 mistune @ file:///C:/ci_311/mistune_1676425149302/work
 mkl-fft==1.3.6
 mkl-random @ file:///C:/Users/dev-admin/mkl/mkl_random_1682977971003/work
@@ -103,7 +109,9 @@ pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyFUME @ file:///home/conda/feedstock_root/build_artifacts/pyfume_1674509566653/work
 Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyLDAvis @ file:///home/conda/feedstock_root/build_artifacts/pyldavis_1682732797915/work
 pyOpenSSL @ file:///C:/b/abs_de215ipd18/croot/pyopenssl_1678965319166/work
 pyparsing @ file:///C:/ci_311/pyparsing_1678502182533/work
 PyQt5==5.15.7
@@ -126,8 +134,10 @@ scikit-learn @ file:///C:/b/abs_a0emltxu06/croot/scikit-learn_1680198772090/work
 scipy==1.10.1
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+simpful @ file:///home/conda/feedstock_root/build_artifacts/simpful_1678693992838/work
 sip @ file:///C:/ci_311/sip_1676427825172/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open @ file:///home/conda/feedstock_root/build_artifacts/smart_open_split_1673202927732/work/dist
 sniffio @ file:///C:/ci_311/sniffio_1676425339093/work
 soupsieve @ file:///C:/b/abs_a989exj3q6/croot/soupsieve_1680518492466/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
